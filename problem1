@@ -9,5 +9,5 @@ for i in y:
     a=j[-1]
     t.remove(j)
     break
-b=b+t
+b=b+y
 print(b)
